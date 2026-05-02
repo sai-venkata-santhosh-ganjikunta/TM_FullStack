@@ -87,8 +87,8 @@ It allows users to **register, login, manage projects, and track tasks** with se
 ### 1️⃣ Clone Repositories
 
 ```bash
-git clone https://github.com/your-username/task-manager-ui
-git clone https://github.com/your-username/task-manager-api
+git clone https://github.com/sai-venkata-santhosh-ganjikunta/TM-ui
+git clone https://github.com/sai-venkata-santhosh-ganjikunta/TM-api
 ```
 
 ---
@@ -147,8 +147,8 @@ http://localhost:5173
 
 ## 👨‍💻 Author
 
-**Your Name**
-GitHub: https://github.com/your-username
+**Sai Venkata Santhosh Ganjikunta**
+GitHub: https://github.com/sai-venkata-santhosh-ganjikunta
 
 ---
 
